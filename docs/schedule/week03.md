@@ -1,6 +1,9 @@
 ---
 icon: lucide/play
-title: DCI 1001 | Week 3
+title: Week 3
 ---
 
 # Week 3
+
+## Tuesday, September 22, 2026
+## Thursday, September 24, 2026

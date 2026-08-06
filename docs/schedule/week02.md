@@ -1,4 +1,4 @@
 ---
 icon: lucide/play
-title: DCI 1001 | Week 2
+title: Week 2
 ---
