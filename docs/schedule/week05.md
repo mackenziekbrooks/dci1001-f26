@@ -3,7 +3,7 @@ icon: lucide/play
 title: Week 5
 ---
 
-# Week 5
+# Week 5 - Presentation + Reading Days
 
 ## Tuesday, October 6, 2026
 

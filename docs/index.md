@@ -5,7 +5,7 @@ title: DCI 1001 Intro to Digital Culture & Information
 
 # DCI 1001: Intro to Digital Culture & Information
 
-Fall 2026 // time // location
+Fall 2026 // 3-4:30pm // Tucker 114
 
 The course website is a living document. It will change regularly to reflect the needs of the course.
 

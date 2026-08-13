@@ -17,6 +17,15 @@ nav = [
     "schedule/week01.md",
     "schedule/week02.md",
     "schedule/week03.md",
+    "schedule/week04.md",
+    "schedule/week05.md",
+    "schedule/week06.md",
+    "schedule/week07.md",
+    "schedule/week08.md",
+    "schedule/week09.md",
+    "schedule/week10.md",
+    "schedule/week11.md",
+    "schedule/week12.md",
   ] },
 ]
 # extra_css = ["stylesheets/extra.css"]
