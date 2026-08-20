@@ -13,20 +13,22 @@ title: Week 1
 	* [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [Engagement signup]()
 
-### Prep for Tuesday:
+### For Tuesday:
 * Read:
 	* [*History in the Age of Abundance*, chapter 1](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
-	* [What Was the Internet?](https://www.bostonreview.net/articles/what-was-the-internet/)
+* Listen:
+	* [The Internet Under the Sea](https://www.npr.org/2025/10/23/nx-s1-5582393/the-internet-under-the-sea)
 
 # Week 1 - How the Web Works
 
-How does the Internet actually work? Where does it come from? We'll start build our tech skill-set by learning foundational languages like HTML and CSS.
+How does the Internet actually work? Where does it come from? We'll start to build our tech skill-set by learning foundational languages like HTML and CSS.
 
 ## Tuesday, September 08, 2026
 
-* Lecture: how the web works
+* Lecture: How the Web Works
 
 * Lab: HTML + CSS with [Neocities](https://neocities.org/)
+
 * Sites to explore: 
 	* [Music Preservation](https://saint-images.neocities.org/stuff/music_preservation)
 	* [Sonic Riders](https://wackyworkbench.neocities.org/sonicriders)
@@ -34,36 +36,32 @@ How does the Internet actually work? Where does it come from? We'll start build 
 	* [Swansea City Football Fanclub](https://swscityfan.neocities.org/)
 	* [Duke the Dog](https://dukethedog.neocities.org/)
 
-### Prep For Thursday: 
+### For Thursday: 
 * Read:
 	* [*History in the Age of Abundance*, chapter ?](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
-* Listen:
-	* [The Internet Under the Sea](https://www.npr.org/2025/10/23/nx-s1-5582393/the-internet-under-the-sea)
+	* [What Was the Internet?](https://www.bostonreview.net/articles/what-was-the-internet/)
 
 ## Thursday, September 10, 2026
 
 * Discussion
-	* Questions provided by your 
+	* Questions provided by this weeks Question Askers
 
 * Lab: HTML + CSS cont. with [Neocities](https://neocities.org/)
 
 ## Week 1 homework
 
-**Website draft**
- 
-**Goal:** get comfortable with HTML/CSS and the Neocities platform, and start establishing the topic your site will explore all semester.
- 
-Your topic can be almost anything you're genuinely interested in: a fandom, a hobby, a place, a piece of media, a person, a phenomenon. You'll keep building on this topic all semester, including for your midterm digital museum project, so pick something you won't get sick of by November.
- 
-**Requirements:**
-* A header `<h1>` with your website's topic/title
-* A `<p>` description of your topic
-* At least one image hosted on your own Neocities site (not hot-linked from elsewhere on the internet)
-* A link out to a source about your topic
-
-**Submit:**
-* The link to your site
-* A short reflection on your process (what was easy, what was hard, anything that was interesting or frustrating along the way)
-
-**Due:** Monday, September 14 at 11:59pm
+* **Website draft**
+	* **Goal:** get comfortable with HTML/CSS and the Neocities platform, and start establishing the topic your site will explore all semester.
+	* Your topic can be almost anything you're genuinely interested in: a fandom, a hobby, a place, a piece of media, a person, a phenomenon. You'll keep building on this topic all semester, including for your midterm digital museum project, so pick something you won't get sick of by November.
+	* **Requirements:**
+		* A header `<h1>` with your website's topic/title
+		* A `<p>` description of your topic
+		* At least one image hosted on your own Neocities site (not linked from elsewhere on the internet)
+		* A link out to a source about your topic
+* **Reflection**
+	* Write a short (2-5 sentences) reflection on your process (what was easy, what was hard, anything that was interesting or frustrating along the way)
+* **Submit on Canvas:**
+	* The link to your site
+	* Your reflection
+* **Due:** Monday, September 14 at 11:59pm
 
