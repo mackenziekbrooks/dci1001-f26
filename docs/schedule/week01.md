@@ -27,9 +27,15 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 
 * Lecture: How the Web Works
 
-* Lab: HTML + CSS with [Neocities](https://neocities.org/)
+* Lab: Learn about HTML + CSS and create your own website with [Neocities](https://neocities.org/)
+	* Create an account on [Neocities](https://neocities.org/). You can use your university or personal email account, whichever you prefer.
+		* Your username will be the url for your neocities webpage. This can be changed later.
+	* After you have created your account, go to the [Neocities Tutorials](https://neocities.org/tutorials) page and start the first tutorial, [The HTML Tutorial](https://neocities.org/tutorial/html/1)
+	* Ask for help if you are having trouble. 
 
-* Sites to explore: 
+* Look through this for help thinking about your website:
+	* [Individuality & Solidarity](https://yournamehere.scholarslab.org/individuality-solidarity/)
+* Sites to explore for inspiration: 
 	* [Music Preservation](https://saint-images.neocities.org/stuff/music_preservation)
 	* [Sonic Riders](https://wackyworkbench.neocities.org/sonicriders)
 	* [Pokemon](https://websitering.neocities.org/pkmn/fan)
