@@ -18,6 +18,8 @@ title: Week 1
 	* [*History in the Age of Abundance*, chapter 1](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
 * Listen:
 	* [The Internet Under the Sea](https://www.npr.org/2025/10/23/nx-s1-5582393/the-internet-under-the-sea)
+* Explore:
+	* [Internet Infrastructure Map](https://map.kmcd.dev/)
 
 # Week 1 - How the Web Works
 
