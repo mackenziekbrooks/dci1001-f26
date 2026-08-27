@@ -8,10 +8,11 @@ title: Week 1
 ## Thursday, September 3, 2026 
 
 * Welcome + Syllabus Day
+* [Slides]
 * Engagement + discussion
 	* [The I in Internet](https://www.cccb.org/en/w/articles/the-i-in-the-internet)
 	* [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
-* [Engagement signup]()
+* [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
 
 ### For Tuesday:
 * Read:
@@ -31,7 +32,7 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 
 * Lab: Learn about HTML + CSS and create your own website with [Neocities](https://neocities.org/)
 	* Create an account on [Neocities](https://neocities.org/). You can use your university or personal email account, whichever you prefer.
-		* Your username will be the url for your neocities webpage. This can be changed later.
+		* Your username will be the url for your Neocities webpage. This can be changed later.
 	* After you have created your account, go to the [Neocities Tutorials](https://neocities.org/tutorials) page and start the first tutorial, [The HTML Tutorial](https://neocities.org/tutorial/html/1)
 	* Ask for help if you are having trouble. 
 
@@ -54,7 +55,7 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 ## Thursday, September 10, 2026
 
 * Discussion
-	* Questions provided by this weeks Question Askers
+	* Questions provided by this week's Question Askers
 
 * Lab: HTML + CSS cont. with [Neocities](https://neocities.org/)
 
