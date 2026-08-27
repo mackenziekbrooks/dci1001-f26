@@ -8,6 +8,7 @@ title: Week 1
 ## Thursday, September 3, 2026 
 
 * Welcome + Syllabus Day
+* What is DCI?
 * Engagement + discussion
 	* [The I in Internet](https://www.cccb.org/en/w/articles/the-i-in-the-internet)
 	* [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)

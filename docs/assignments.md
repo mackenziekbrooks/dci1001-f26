@@ -7,11 +7,12 @@ title: Assignments
 
 |Assignment|Type|Points|Total|
 |---|---|---|---|
-|Engagement|Pass/No pass|1 pt/week|12|
-|Labs|Pass/No pass|1 pt/week|12|
+|Engagement|Pass/No pass|1 pt/week|10|
+|Labs|Pass/No pass|1 pt/week|10|
 |Unit 1 project|??|??||
 |Unit 2 project|??|??||
 
+Reflection 
 
 ## Engagement 
 
@@ -20,6 +21,10 @@ Demonstrating engagement in this course does not mean being the loudest voice in
 The expectations of each role are listed below. Note that depending on your role, you may be doing work early or late in the week. Regardless of when your work occurs, you will turn in a short Canvas assignment by Friday at 5pm. Each role is worth 1 point. 
 
 If you miss a Thursday class, you can make up the points by taking on an extra role in a future week. 
+
+Need help with your role? Talk to us! You might also want to consult resources by Stephen D. Brookfield:
+
+* [Workshop Resource Packet](https://static1.squarespace.com/static/5738a0ccd51cd47f81977fe8/t/5750ef4862cd947608165d85/1464921939855/Discussion_as_a_Way_of_Teaching_Packet.pdf) - see page 43 for example questions. Otherwise, lots of strategies in here. 
 
 ### Question Asker
 
