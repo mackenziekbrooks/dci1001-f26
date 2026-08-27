@@ -28,4 +28,8 @@ title: Week 2
 
 ## Week 2 homework
 
-* 
+* **Website upgrade**
+	* **Goal:** Level up your HTML and CSS skills. Refine your website after exploring Geocities and the early web.
+	* 
+	* **Requirements**:
+		* ...
