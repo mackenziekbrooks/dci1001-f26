@@ -52,12 +52,15 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 
 * **Website draft**
 	* **Goal:** get comfortable with HTML/CSS and the Neocities platform, and start establishing the topic your site will explore all semester.
-	* Your topic can be almost anything you're genuinely interested in: a fandom, a hobby, a place, a piece of media, a person, a phenomenon. You'll keep building on this topic all semester, including for your midterm digital museum project, so pick something you won't get sick of by November.
-	* **Requirements:**
-		* A header `<h1>` with your website's topic/title
-		* A `<p>` description of your topic
-		* At least one image hosted on your own Neocities site (not linked from elsewhere on the internet)
-		* A link out to a source about your topic
+	* Your topic can be almost anything you're genuinely interested in: a fandom, a hobby, a place, a piece of media, a person, a phenomenon. You will be building on this week by week for the first half of the semester.
+	* **Requirements** *(use these exact tags so we can check your HTML)*:
+		* An `<h1>` with a title for your page
+        * An `<h2>` subheading somewhere on the page
+        * At least two `<p>` paragraphs about your topic
+        * At least one `<strong>` or `<em>` to emphasize a word or phrase
+        * At least one `<ul>` or `<ol>` list of something related to your topic (favorite examples, a timeline, categories, etc.)
+        * At least one `<img>` showing an image uploaded to your own Neocities site (not linked in from elsewhere on the internet)
+        * At least one `<a>` link out to an outside source about your topic
 * **Reflection**
 	* Write a short (2-5 sentences) reflection on your process (what was easy, what was hard, anything that was interesting or frustrating along the way)
 * **Submit on Canvas:**
