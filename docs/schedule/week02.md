@@ -7,7 +7,7 @@ title: Week 2
  
 ## For Tuesday:
 
-* Week 1 website homework due on Tuesday at 11:59am
+* Week 1 website homework due on Monday by 11:59pm.
 * Read [*History in the Age of Abundance*, chapter 5](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
 
 ## Tuesday, September 15, 2026

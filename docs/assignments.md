@@ -9,7 +9,7 @@ title: Assignments
 |---|---|---|---|
 |Engagement|Pass/No pass|1 pt/week|10|
 |Labs|Pass/No pass|1 pt/week|10|
-|Unit 1 project|??|??||
+|Unit 1 project|From labs|From labs||
 |Unit 2 project|??|??||
 
 Reflection 
@@ -108,7 +108,47 @@ DCI courses have two goals: 1) make sense of our digital culture and 2) equip yo
 
 Lab assignments will be worth 1 point. 
 
-## Unit 1 Project 
+## Unit 1 Project - Digital Museum
+
+In the first four weeks of class, we'll be learning how the internet works and what digital culture really means. We'll do this through reading, discussions, lecture, and labs with a focus on hand coding your own website in Neocities. This website will be on a topic of your choosing - we encourage you to be a fan of *something* in the style of the 1990s internet. We're evaluating you on whether you have learned the technical aspects of website creation, not on whether you have selected an important and worthy topic to society at large. 
+
+Your Digital Museum project will not receive its own grade, but will be constructed from each week's lab assignments. You will present on your museum in Week 5. 
 
 
-## Unit 2 Project 
+## Unit 2 Project - 
+
+Exploration
+Prospectus
+Proposal
+Project
+Investigation
+Field Study ?? 
+
+
+For the second portion of the course, we will focus on how to actually study the internet and all the ways it is shaping behavior. We'll do this by first observing changes in our own lives and the world around us. How does social media create/enrich/harm certain groups? What is the cost of handing over decisions to algorithms? Is it possible to retain your privacy in the age of surveillance? 
+
+Next, we'll look at how scholars are studying these changes and behaviors. How do they capture and access data when feeds are personalized and profiles are private? How do they make sense of results when there are more comments than anyone can possibly read? What happens when major platforms change their architecture or access rules? How do we study something that makes the rules about how it study it? We'll look at projects and scholarship to understand the various approaches and how they differ by discipline. 
+
+Your work in this unit will be to follow along this research journey with your own research questions and object of study. While it can be related to your Digital Museum topic, it doesn't have to be. What types of platforms, cultures, or phenomena are you interested in? What kinds of questions does your field (major or intended major or job) ask? What has been studied already and what might be so new that you need to be the one to ask the question? Potential topics include: 
+
+* Social media... 
+* ... 
+* ... 
+
+Like Unit 1, each week's lab homework will contribute to this final project. However, this project will be graded on its own merit at the end of the term. The project should include the following sections:
+
+* Introduction (based on week 9 proposal)
+* Lit Review (based on week 8)
+* Data as object but also results > what sites/content do I want to study… explicit links to specific things… 
+* Tools/methods > how am I doing this work (use at least one tool from what we talked about) 
+* Research questions > informed by literature and some close reading of data, 
+* Experiments > I tried this and it worked/failed. I got some data and visualized it. 
+* Conclusion/next steps, reflect on choices, tools, costs, ethics etc. 
+
+Website presentation! 
+
+We do not expect that you will be successful in all of these experiments! However, your project should be honest and thoughtful about what you tried, what worked and what didn't, what barriers you faced, and what the project could look like with more time and resources. 
+
+
+
+
