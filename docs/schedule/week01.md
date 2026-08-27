@@ -45,8 +45,9 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 ### For Thursday: 
 * Read:
 	* [What Was the Internet?](https://www.bostonreview.net/articles/what-was-the-internet/)
-	* [Wikipedia Is the Last Best Place on the Internet](https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet/)
 	* [The internet is losing its third places](https://www.salon.com/2026/08/23/the-internet-is-losing-its-third-places/)
+* Optional:
+	* Read [Wikipedia Is the Last Best Place on the Internet](https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet/)
 
 ## Thursday, September 10, 2026
 
@@ -64,14 +65,17 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 		* An `<h1>` with a title for your page
         * An `<h2>` subheading somewhere on the page
         * At least two `<p>` paragraphs about your topic
-        * At least one `<strong>` or `<em>` to emphasize a word or phrase
+        * At least one `<b>` or `<em>` to emphasize a word or phrase
         * At least one `<ul>` or `<ol>` list of something related to your topic (favorite examples, a timeline, categories, etc.)
         * At least one `<img>` showing an image uploaded to your own Neocities site (not linked in from elsewhere on the internet)
         * At least one `<a>` link out to an outside source about your topic
+		* A `<!-- comment -->` that contains your reflection (see below)
+		* HTML should be formatted well, with correct opening and ending tags. Content should be in the `<body>` of the website.
+			* A description of the required tags and how to use them can be found here: https://www.w3schools.com/TAGs/
 * **Reflection**
 	* Write a short (2-5 sentences) reflection on your process (what was easy, what was hard, anything that was interesting or frustrating along the way)
+	* Reflection should be included on your website in an HTML comment (see above)
 * **Submit on Canvas:**
-	* The link to your site
-	* Your reflection
+	* The link to your Neocities site
 * **Due:** Monday, September 14 at 11:59pm
 
