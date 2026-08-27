@@ -28,22 +28,13 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 
 ## Tuesday, September 08, 2026
 
-* Lecture: How the Web Works
+* Lecture: How the Web Works [Slides]()
 
 * Lab: Learn about HTML + CSS and create your own website with [Neocities](https://neocities.org/)
 	* Create an account on [Neocities](https://neocities.org/). You can use your university or personal email account, whichever you prefer.
 		* Your username will be the url for your Neocities webpage. This can be changed later.
 	* After you have created your account, go to the [Neocities Tutorials](https://neocities.org/tutorials) page and start the first tutorial, [The HTML Tutorial](https://neocities.org/tutorial/html/1)
 	* Ask for help if you are having trouble. 
-
-* Look through this for help thinking about your website:
-	* [Individuality & Solidarity](https://yournamehere.scholarslab.org/individuality-solidarity/)
-* Sites to explore for inspiration: 
-	* [Music Preservation](https://saint-images.neocities.org/stuff/music_preservation)
-	* [Sonic Riders](https://wackyworkbench.neocities.org/sonicriders)
-	* [Pokemon](https://websitering.neocities.org/pkmn/fan)
-	* [Swansea City Football Fanclub](https://swscityfan.neocities.org/)
-	* [Duke the Dog](https://dukethedog.neocities.org/)
 
 ### For Thursday: 
 * Read:
@@ -58,6 +49,7 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 	* Questions provided by this week's Question Askers
 
 * Lab: HTML + CSS cont. with [Neocities](https://neocities.org/)
+	* You can either finish the first two HTML tutorials or get started customizing your website for this week's homework.
 
 ## Week 1 homework
 
@@ -75,6 +67,16 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 		* A `<!-- comment -->` that contains your reflection (see below)
 		* HTML should be formatted well, with correct opening and ending tags. Content should be in the `<body>` of the website.
 			* A description of the required tags and how to use them can be found here: https://www.w3schools.com/TAGs/
+		* Some of these tags may already be saved to your website from completing the tutorial. You will need to customize the website and tags to reflect your topic.
+	* Look through this for help thinking about your website:
+		* [Individuality & Solidarity](https://yournamehere.scholarslab.org/individuality-solidarity/)
+	* Sites to explore for inspiration: 
+		* [Music Preservation](https://saint-images.neocities.org/stuff/music_preservation)
+		* [Sonic Riders](https://wackyworkbench.neocities.org/sonicriders)
+		* [Pokemon](https://websitering.neocities.org/pkmn/fan)
+		* [Swansea City Football Fanclub](https://swscityfan.neocities.org/)
+		* [Duke the Dog](https://dukethedog.neocities.org/)
+
 * **Reflection**
 	* Write a short (2-5 sentences) reflection on your process (what was easy, what was hard, anything that was interesting or frustrating along the way)
 	* Reflection should be included on your website in an HTML comment (see above)
