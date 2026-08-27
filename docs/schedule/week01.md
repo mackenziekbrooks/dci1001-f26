@@ -38,8 +38,9 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 
 ### For Thursday: 
 * Read:
-	* [*History in the Age of Abundance*, chapter ?](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
 	* [What Was the Internet?](https://www.bostonreview.net/articles/what-was-the-internet/)
+	* [Wikipedia Is the Last Best Place on the Internet](https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet/)
+	* [The internet is losing its third places](https://www.salon.com/2026/08/23/the-internet-is-losing-its-third-places/)
 
 ## Thursday, September 10, 2026
 
