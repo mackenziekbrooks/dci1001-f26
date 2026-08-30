@@ -54,8 +54,8 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 ## Week 1 homework
 
 * **Website draft**
-	* **Goal:** get comfortable with HTML/CSS and the Neocities platform, and start establishing the topic your site will explore all semester.
-	* Your topic can be almost anything you're genuinely interested in: a fandom, a hobby, a place, a piece of media, a person, a phenomenon. You will be building on this week by week for the first half of the semester.
+	* **Goal:** get comfortable with HTML/CSS and the Neocities platform, and start establishing the topic your site will explore this unit.
+	* Your topic can be almost anything you're genuinely interested in: a fandom, a hobby, a place, a piece of media, a person, a phenomenon. You will be building on this week by week for the first third of the semester.
 	* **Requirements** *(use these exact tags so we can check your HTML)*:
 		* An `<h1>` with a title for your page
         * An `<h2>` subheading somewhere on the page
