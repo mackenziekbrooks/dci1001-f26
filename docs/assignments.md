@@ -10,9 +10,10 @@ title: Assignments
 |Engagement|Pass/No pass|1 pt/week|10|
 |Labs|Pass/No pass|1 pt/week|10|
 |Unit 1 project|From labs|From labs||
-|Unit 2 project|Points|10 point rubric|10|
+|Unit 2 project|Points|9 point rubric|9|
+|Reflection|Pass/no pass| 1 point|1 |  
+| | |Total | 30|
 
-Reflection 
 
 ## Engagement 
 
@@ -133,9 +134,9 @@ The prospectus should include the following sections:
 * Tools/methods (from what we've used in class) 
 * Research questions (informed by literature and some close reading of data)
 * Experiments (I tried this and it worked/failed. I got some data and visualized it). 
-* Conclusion/next steps, reflect on choices, tools, costs, ethics etc. 
+* Conclusion (next steps, reflect on choices, tools, costs, ethics etc.)
 
-Finally, your project will be presented on a website. It can be hand-coded or created using WordPress (on your domain). 
+Your project will be presented on a website. It can be hand-coded or created using WordPress, but it should live on your domain. 
 
-
+Finally, the last piece of 
 

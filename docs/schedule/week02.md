@@ -42,7 +42,7 @@ title: Week 2
 		* 1-2 elements that use a `border`, `padding`, `margin`, and `border radius`.
 		* Custom styled links. 
 		* Add 3-5 decorative elements. These can be old-fashioned gifs, buttons, animations, etc. Take inspiration from existing Neocities or Geocities sites. 
-		* Create a second page and link to it from your home page. 
+		* Create a second page and link to it from a menu on your home page. 
 		* Add one feature that mimics the social/community elements of Geocities. This could be a webring, guestbook, counter, links to friend's sites, etc. 
 	* **Reflection**
 		* Write a short (2-5 sentences) reflection on your design goals and what you wish you could bring with you to the social internet of today. 

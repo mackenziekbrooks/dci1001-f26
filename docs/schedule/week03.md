@@ -16,6 +16,8 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 
 ## Tuesday, September 22, 2026
 
+* Website recap and introduce Digital Museum assignment
+
 * Lecture: How AI is Reshaping the Web
 
 * Lab: Summary vs Source
@@ -55,9 +57,6 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 * **Reflection** (2 options):
     * **Option 1:** Write about how AI is impacting some corner of the web or platform you care about. Ground it in something specific you have actually observed (a search result, a Reddit thread, a chatbot conversation, a tool you use) not just general opinions about AI. What did you notice? What questions does it raise?
     * **Option 2:** Ask an LLM about your website's topic and, separately, give it your Neocities URL and ask it to summarize the site. Write up what it said, where it was right, wrong, or just vague, and how that compares to what you already know.
-
-* Digital Museum Topic Pitch
-    * Write a first pitch for your web archive/collection (which you'll build out more fully in Week 4): what would you want to save, and why does it matter that it might disappear?
 
 * **Submit on Canvas:**
 	* Your chosen reflection

@@ -10,7 +10,6 @@ title: Week 1
 * Welcome + Syllabus Day
 * [Slides]
 * Engagement + discussion
-	* [The I in Internet](https://www.cccb.org/en/w/articles/the-i-in-the-internet)
 	* [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
 
@@ -28,6 +27,8 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 
 ## Tuesday, September 08, 2026
 
+* Icebreaker 
+
 * Lecture: How the Web Works [Slides]()
 
 * Lab: Learn about HTML + CSS and create your own website with [Neocities](https://neocities.org/)
@@ -44,6 +45,8 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 	* Read [Wikipedia Is the Last Best Place on the Internet](https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet/)
 
 ## Thursday, September 10, 2026
+
+* Icebreaker
 
 * Discussion
 	* Questions provided by this week's Question Askers
