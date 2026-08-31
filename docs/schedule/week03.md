@@ -9,10 +9,12 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 
 ### For Tuesday:
 * Read:
-    * [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (the first section or two is enough to get the gist)
-    * [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human)    
+    * The first section of [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (you can stop when you get to "Where Do the Probabilities Come From?")
+    * [The End of Google Search—and the Internet—as We Know It](https://www.theringer.com/2026/08/04/tech/google-search-ai-internet)
 * Do:
-    * [UVA Library AI Challenge](https://guides.lib.virginia.edu/aichallenge)
+    * Step 1 and Step 10 of [UVA Library AI Challenge](https://guides.lib.virginia.edu/aichallenge) (feel free to explore the rest, though that is not required)
+* Optional:
+    * Watch: [How Brands Use Reddit to Poison AI Search](https://www.youtube.com/watch?v=2uG8ohZHOD8)
 
 ## Tuesday, September 22, 2026
 
@@ -31,10 +33,11 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 
 
 ### For Thursday:
-* Watch:
-    * [How Brands Use Reddit to Poison AI Search](https://www.youtube.com/watch?v=2uG8ohZHOD8)
+
 * Read:
-    * [The End of Google Search—and the Internet—as We Know It](https://www.theringer.com/2026/08/04/tech/google-search-ai-internet)
+    * [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human)
+* Watch:
+    * [Lessons from the very first chatbot](https://www.theverge.com/podcast/978198/eliza-chatbot-history-vergecast)
 * Listen:
     * [Blood in the Machine](https://99percentinvisible.org/episode/552-blood-in-the-machine/)
 
