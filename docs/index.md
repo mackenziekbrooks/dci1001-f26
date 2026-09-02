@@ -18,8 +18,7 @@ brooksm [at] wlu.edu
 Prof. Dorian McIntush (he/they)
 dmcintush [at] wlu.edu
 
-Office hours: 
-
+Office hours: Our on-campus hours are generally 10-5pm M-F. Just reach out to make an appointment. Also happy to chat before or after class! 
 
 ## Course description
 What does it mean to be a citizen of a digital world? How do you think critically about the ways that technology shapes our society? How do you learn new digital skills when platforms are constantly changing? How do you find and use information effectively without being overwhelmed or mislead?
