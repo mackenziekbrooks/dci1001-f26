@@ -14,7 +14,7 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
     * The first section of [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (you can stop when you get to "Where Do the Probabilities Come From?")
     * [The End of Google Search—and the Internet—as We Know It](https://www.theringer.com/2026/08/04/tech/google-search-ai-internet)
 * Do:
-    * Step 1 and Step 10 of [UVA Library AI Challenge](https://guides.lib.virginia.edu/aichallenge) (feel free to explore the rest, though that is not required)
+    * Step 1 and Step 10 of [UVA Library AI Challenge](https://guides.lib.virginia.edu/aichallenge) (you are encouraged to explore the rest, though that is not required)
 * Optional:
     * Watch: [How Brands Use Reddit to Poison AI Search](https://www.youtube.com/watch?v=2uG8ohZHOD8)
 
