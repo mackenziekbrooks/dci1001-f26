@@ -4,6 +4,8 @@ title: Week 2
 ---
 
 # Week 2 - Digital Culture of the Past
+
+How do we make sense of recent history? Can we even access it? We'll use Geocities as a case study for the larger themes of our class. Plus, we'll make our websites pretty. 
  
 ## For Tuesday:
 

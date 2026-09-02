@@ -13,10 +13,6 @@ title: Week 1
 	* [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
 
-# Week 1 - How the Web Works
-
-How does the Internet actually work? Where does it come from? We'll start to build our tech skill-set by learning foundational languages like HTML and CSS.
-
 ### For Tuesday:
 * Read:
 	* [*History in the Age of Abundance*, chapter 1](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
@@ -25,6 +21,11 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 	* [The Internet Under the Sea](https://www.npr.org/2025/10/23/nx-s1-5582393/the-internet-under-the-sea)
 * Explore:
 	* [Internet Infrastructure Map](https://map.kmcd.dev/)
+
+
+## Week 1 - How the Web Works
+
+How does the Internet actually work? Where does it come from? We'll start to build our tech skill-set by learning foundational languages like HTML and CSS.
 
 ## Tuesday, September 08, 2026
 

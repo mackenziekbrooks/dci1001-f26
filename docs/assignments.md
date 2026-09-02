@@ -10,10 +10,25 @@ title: Assignments
 |Engagement|Pass/No pass|1 pt/week|10|
 |Labs|Pass/No pass|1 pt/week|10|
 |Unit 1 project|From labs|From labs||
-|Unit 2 project|Points|9 point rubric|9|
+|Unit 2 project|Rubric|9 points|9|
 |Reflection|Pass/no pass| 1 point|1 |  
-| | |Total | 30|
+| | |**Total** | **30 points**|
 
+## Policies
+
+### Grading
+
+With the exception of the final project, all assignments in this class will be graded on a pass/no pass basis. To pass an assignment, you will need to meet all of specifications/expectations listed, including the due date and method of delivery. 
+
+If you do not pass an assignment, you have the opportunity to revise through the use of **tokens**. You have **3 tokens** to use on revising assignments throughout the term. If you receive a "no pass" on an assignment, email the professors to declare your use of a token and to discuss a new deadline. Using a token does not guarantee that you will receive a pass on the re-submission. Tokens should be requested within a week of an incomplete or missed assignment.
+
+### Attendance 
+
+We get it, life happens. If you need to miss class, please email us in advance (before noon on class day if possible). It helps us plan our activities if we know how many students will be attending and keeps us from worrying that you've fallen in the river.
+
+That being said, the way we've designed this course means that if you're not in the room, you will miss a lot of learning that can't be made up by the reading. Once you have more than 2 absences, it will affect your grade. Every subsequent absence will decrease your final letter grade by one step (B to B-, B- to C+, etc.)
+
+And while I want you to succeed in the next stage of your career, please try to avoid scheduling meetings, interviews, or extra-curriculars during class time. Missing more than 45 minutes of class will constitute a full absence. 
 
 ## Engagement 
 
