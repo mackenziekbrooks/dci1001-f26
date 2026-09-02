@@ -24,31 +24,6 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 
 * Lecture: How AI is Reshaping the Web
 
-* Lab: Summary vs Source
-    * Split into 4 groups: each group gets a different news article along with an AI-generated summary of it (a Google AI Overview, a ChatGPT summary, etc.) and reads both side by side.
-    * Questions to ask while reading:
-        * What did the summary get right? What did it flatten, oversimplify, or drop?
-        * Did it lose any nuance, hedging, or disagreement that was in the original?
-        * Would you have known what was missing if you'd only read the summary?
-    * We will come back together as a group and compare our results. What tends to get lost when AI compresses a piece of writing?
-
-
-
-### For Thursday:
-
-* Read:
-    * [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human)
-* Watch:
-    * [Lessons from the very first chatbot](https://www.theverge.com/podcast/978198/eliza-chatbot-history-vergecast)
-* Listen:
-    * [Blood in the Machine](https://99percentinvisible.org/episode/552-blood-in-the-machine/)
-
-
-## Thursday, September 24, 2026
-
-* Discussion
-	* Questions provided by this weeks Question Askers
-
 * Lab: Same prompt, different platform
     * Split into 4 groups: each group gets the same research question and is tasked with asking a different LLM to answer it (Eg Group 1 asks ChatGPT, group 2 asks Claude, etc) and then tries to verify every claim their tool produced
     * Questions to ask about your results:
@@ -56,6 +31,30 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
         * Is it current?
         * Can I cite it?
     * We will come back together as a group and compare our results. What did each platform surface, get right, misinterperet, or just make up?
+
+### For Thursday:
+
+* Read:
+    * [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human)
+    * [How AI is reshaping human skills and thinking](https://www.apa.org/monitor/2026/07-08/ai-job-skills-thinking)
+* Watch:
+    * [Lessons from the very first chatbot](https://www.theverge.com/podcast/978198/eliza-chatbot-history-vergecast)
+* Optional:
+    * Listen: [Blood in the Machine](https://99percentinvisible.org/episode/552-blood-in-the-machine/)
+
+
+## Thursday, September 24, 2026
+
+* Discussion
+	* Questions provided by this weeks Question Askers
+
+* Lab: Summary vs Source
+    * Split into 4 groups: each group gets a different news article along with an AI-generated summary of it (a Google AI Overview, a ChatGPT summary, etc.) and reads both side by side.
+    * Questions to ask while reading:
+        * What did the summary get right? What did it flatten, oversimplify, or drop?
+        * Did it lose any nuance, hedging, or disagreement that was in the original?
+        * Would you have known what was missing if you'd only read the summary?
+    * We will come back together as a group and compare our results. What tends to get lost when AI compresses a piece of writing?
 
 ## Week 3 Homework
 
