@@ -8,6 +8,8 @@ title: Week 3
 ChatGPT, Gemini, and friends are reshaping how search works, how writing gets done, and how information circulates online, but what do these tools actually know, versus what do they just sound like they know? 
 
 ### For Tuesday:
+* Week 2 website homework due on Monday by 11:59pm.
+
 * Read:
     * The first section of [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (you can stop when you get to "Where Do the Probabilities Come From?")
     * [The End of Google Search—and the Internet—as We Know It](https://www.theringer.com/2026/08/04/tech/google-search-ai-internet)
@@ -60,8 +62,9 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 * **Reflection** (2 options):
     * **Option 1:** Write about how AI is impacting some corner of the web or platform you care about. Ground it in something specific you have actually observed (a search result, a Reddit thread, a chatbot conversation, a tool you use) not just general opinions about AI. What did you notice? What questions does it raise?
     * **Option 2:** Ask an LLM about your website's topic and, separately, give it your Neocities URL and ask it to summarize the site. Write up what it said, where it was right, wrong, or just vague, and how that compares to what you already know.
+* Reflection should be ~300 words.
 
 * **Submit on Canvas:**
 	* Your chosen reflection
-	* Your digital museum pitch
+
 * **Due:** Monday, September 28 at 11:59pm
