@@ -153,5 +153,5 @@ The prospectus should include the following sections:
 
 Your project will be presented on a website. It can be hand-coded or created using WordPress, but it should live on your domain. 
 
-Finally, the last piece of 
+## Reflection
 

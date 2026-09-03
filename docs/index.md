@@ -68,7 +68,7 @@ Please maintain integrity, for your learning, your personal character, and acade
 
 ## Accommodations
 
-We am committed to ensuring access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your needs and the accommodation process. More information can be found at: https://www.wlu.edu/disability-accommodations/undergraduate-accommodations
+We am committed to ensuring access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your needs and the accommodation process. More information can be found at: [https://www.wlu.edu/disability-accommodations/undergraduate-disability-resources](https://www.wlu.edu/disability-accommodations/undergraduate-disability-resources)
 
 If you have already been approved for accommodations, please meet with us within the first two weeks of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam.
 
