@@ -8,7 +8,7 @@ title: Week 1
 ## Thursday, September 3, 2026 
 
 * Welcome + Syllabus Day
-* [Slides]
+* [Slides](https://docs.google.com/presentation/d/1jE6xbp73IiJOlj7y9_JTwHXx-9jajv0hqojzRo3bolo/edit?usp=sharing)
 * Engagement + discussion
 	* [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
