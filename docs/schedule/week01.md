@@ -13,7 +13,7 @@ title: Week 1
 	* [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
 
-### For Tuesday:
+### Complete for Tuesday's class:
 * Read:
 	* [*History in the Age of Abundance*, chapter 1](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
 		* Also in our Box folder if you have trouble accessing it
@@ -30,7 +30,8 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 ## Tuesday, September 08, 2026
 
 * Icebreaker 
-
+* Syllabus recap + questions
+* [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
 * Lecture: How the Web Works [Slides]()
 
 * Lab: Learn about HTML + CSS and create your own website with [Neocities](https://neocities.org/)
@@ -39,7 +40,7 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 	* After you have created your account, go to the [Neocities Tutorials](https://neocities.org/tutorials) page and start the first tutorial, [The HTML Tutorial](https://neocities.org/tutorial/html/1)
 	* Ask for help if you are having trouble. 
 
-### For Thursday: 
+### Complete for Thursday's class: 
 * Read:
 	* [What Was the Internet?](https://www.bostonreview.net/articles/what-was-the-internet/)
 	* [The internet is losing its third places](https://www.salon.com/2026/08/23/the-internet-is-losing-its-third-places/)
