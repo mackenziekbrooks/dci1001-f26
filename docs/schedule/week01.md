@@ -32,7 +32,8 @@ How does the Internet actually work? Where does it come from? We'll start to bui
 * Icebreaker 
 * Syllabus recap + questions
 * [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
-* Lecture: How the Web Works [Slides]()
+* Lecture: How the Web Works 
+	* [Slides](https://docs.google.com/presentation/d/1jkq9mdO8eJaoms2rf-t6VhgkGSwk36avUqf1bEeYEro/edit?usp=sharing)
 
 * Lab: Learn about HTML + CSS and create your own website with [Neocities](https://neocities.org/)
 	* Create an account on [Neocities](https://neocities.org/). You can use your university or personal email account, whichever you prefer.
