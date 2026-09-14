@@ -14,6 +14,7 @@ How do we make sense of recent history? Can we even access it? We'll use Geociti
 
 ## Tuesday, September 15, 2026
 
+* coding recap (how did it go? what do you want to do that you can't?)
 * Lecture: Digital Culture of the past [slides]()
 
 * Lab: Exploring Geocities via the [Geocities Gallery](https://geocities.restorativland.org/)
@@ -21,7 +22,7 @@ How do we make sense of recent history? Can we even access it? We'll use Geociti
 ### For Thursday:
 
 * Listen to [The Lost Cities of Geo](https://99percentinvisible.org/episode/the-lost-cities-of-geo/) - 99% Invisible 
-* Read [Chapter 2: Privacy](https://www.danah.org/books/ItsComplicated.pdf) - this was published for parents in 2014. 
+* Read [Chapter 2: Privacy](https://www.danah.org/books/ItsComplicated.pdf) - this was published for parents in 2014, but written by an internet studies scholar. Eager to hear from you all about your experiences growing up online and how that changes generation by generation (even within the same family).
 
 ## Thursday, September 17, 2026
 
