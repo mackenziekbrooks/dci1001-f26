@@ -14,6 +14,8 @@ How do we make sense of recent history? Can we even access it? We'll use Geociti
 
 ## Tuesday, September 15, 2026
 
+* ice breaker
+* [engagement sign up](https://wlu.app.box.com/notes/2406067290939)! 
 * coding recap (how did it go? what do you want to do that you can't?)
 * Lecture: Digital Culture of the past [slides]()
 
