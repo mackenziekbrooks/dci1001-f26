@@ -9,6 +9,10 @@ Easy week this week - no class on Thursday! On Tuesday, plan to share your digit
 
 ## Tuesday, October 6, 2026
 
+* icebreaker
+* Digital Museum presentation
+* Revisit engagement/discussion format 
+* introduce final assignment + initial brainstorming 
 
 ## Thursday, October 8, 2026 - No class, Reading Days! 
 
