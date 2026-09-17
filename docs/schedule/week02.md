@@ -17,7 +17,7 @@ How do we make sense of recent history? Can we even access it? We'll use Geociti
 * ice breaker
 * [engagement sign up](https://wlu.app.box.com/notes/2406067290939)! 
 * coding recap (how did it go? what do you want to do that you can't?)
-* Lecture: Digital Culture of the past [slides]()
+* Lecture: Digital Culture of the past [slides](https://docs.google.com/presentation/d/1nCcZpJLVgoAz2I8tdJoSCYr4F6MkQoQ5OSb_mUZL0GY/edit?usp=sharing)
 
 * Lab: Exploring Geocities via the [Geocities Gallery](https://geocities.restorativland.org/)
 
