@@ -7,7 +7,7 @@ title: Week 3
 
 ChatGPT, Gemini, and friends are reshaping how search works, how writing gets done, and how information circulates online, but what do these tools actually know, versus what do they just sound like they know? 
 
-### For Tuesday:
+### For class on Tuesday:
 * Week 2 website homework due on Monday by 11:59pm.
 
 * Read:
@@ -19,6 +19,8 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
     * Do: [UVA Library AI Challenge](https://guides.lib.virginia.edu/aichallenge) 
 
 ## Tuesday, September 22, 2026
+
+* Icebreaker
 
 * Website recap and introduce Digital Museum assignment
 
@@ -32,7 +34,7 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
         * Can I cite it?
     * We will come back together as a group and compare our results. What did each platform surface, get right, misinterperet, or just make up?
 
-### For Thursday:
+### For class on Thursday:
 
 * Read:
     * [Choosing to Stay Human](https://www.oneusefulthing.org/p/choosing-to-stay-human)
@@ -40,10 +42,12 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 * Watch:
     * [Lessons from the very first chatbot](https://www.theverge.com/podcast/978198/eliza-chatbot-history-vergecast)
 * Optional:
-    * Listen: [Blood in the Machine](https://99percentinvisible.org/episode/552-blood-in-the-machine/)
+    * Listen: [Blood in the Machine](https://99percentinvisible.org/episode/552-blood-in-the-machine/) - this is a podcast about the Luddites, the actual historical textile mill workers who protested the use of automated textile machinery. An interesting listen re: AI today.
 
 
 ## Thursday, September 24, 2026
+
+* Icebreaker
 
 * Discussion
 	* Questions provided by this weeks Question Askers
