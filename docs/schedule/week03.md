@@ -22,7 +22,7 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 
 * Icebreaker
 
-* Website recap and introduce Digital Museum assignment
+* Website recap
 
 * [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
 
@@ -34,7 +34,7 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
         * Where did this come from?
         * Is it current?
         * Can I cite it?
-    * We will come back together as a group and compare our results. What did each platform surface, get right, misinterperet, or just make up?
+    * We will come back together as a group and compare our results. What did each platform surface, get right, misinterpret, or just make up?
 
 ### For class on Thursday:
 
