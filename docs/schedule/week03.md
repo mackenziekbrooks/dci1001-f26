@@ -24,6 +24,8 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 
 * Website recap and introduce Digital Museum assignment
 
+* [Engagement signup](https://wlu.app.box.com/notes/2406067290939)
+
 * Lecture: How AI is Reshaping the Web
 
 * Lab: Same prompt, different platform
