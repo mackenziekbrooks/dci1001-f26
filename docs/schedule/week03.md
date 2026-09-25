@@ -25,6 +25,7 @@ ChatGPT, Gemini, and friends are reshaping how search works, how writing gets do
 * Website recap and introduce Digital Museum assignment
 
 * Lecture: How AI is Reshaping the Web
+    * [Slides](https://docs.google.com/presentation/d/1MQht6OAKzYlNmuj9_R4Mov4ctINBnYCf7RyCKoZkoqQ/edit?usp=sharing)
 
 * Lab: Same prompt, different platform
     * Split into 4 groups: each group gets the same research question and is tasked with asking a different LLM to answer it (Eg Group 1 asks ChatGPT, group 2 asks Claude, etc) and then tries to verify every claim their tool produced
