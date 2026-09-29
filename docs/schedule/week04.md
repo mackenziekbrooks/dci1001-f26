@@ -10,7 +10,7 @@ We've started learning about web archives and the challenges they face. Let's di
 ### For Tuesday:
 
 
-* Read [History in the Age of Abundance, chapter 3]()
+* Read [History in the Age of Abundance, chapter 3](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
 
 
 ## Tuesday, September 29, 2026
