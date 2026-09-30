@@ -16,7 +16,7 @@ We've started learning about web archives and the challenges they face. Let's di
 ## Tuesday, September 29, 2026
 
 * icebreaker
-* [slides]() 
+* [slides](https://docs.google.com/presentation/d/1FkxbY0JD-I_-UtJiyZssYAP0-Tkv-yuS-Wm0EIByhD4/edit?usp=sharing) 
 * lab: researching recent history at W&L 
 
 ### For Thursday:
