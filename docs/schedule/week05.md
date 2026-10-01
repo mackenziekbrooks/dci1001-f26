@@ -5,7 +5,7 @@ title: Week 5
 
 # Week 5 - Presentation + Reading Days
 
-Easy week this week - no class on Thursday! On Tuesday, plan to share your digital museum with the class. 
+Easy week this week - no class on Thursday! On Tuesday, plan to share your digital museum with the class. Don't forget to bring print-outs of a screenshots or images of the items in your museum.
 
 ## Tuesday, October 6, 2026
 
