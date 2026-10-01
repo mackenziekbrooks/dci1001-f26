@@ -29,6 +29,7 @@ We've started learning about web archives and the challenges they face. Let's di
 * icebreaker
 * discussion 
 * lab: getting to know the Internet Archive
+* [slides](https://docs.google.com/presentation/d/1LxLx_HdAEfHV0Fiy-kO7ozSA_NginZ2bABPrv_G8bL8/edit?usp=sharing)
 
 ## Week 4 homework
 
