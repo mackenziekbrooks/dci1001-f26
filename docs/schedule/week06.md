@@ -45,12 +45,14 @@ Social media didn't invent the performance of the self, but it did change the st
 
 ## Week 6 Homework
 * **Algorithm Log:**
-    * Spend 10 minutes scrolling a social media app/website of your choice. 
-    *  Make notes about what it recommends for you, including content from people you follow, content from people you don't follow, ads, etc.
+    * Create a new account on a social media app/website of your choice.
+    * Navigate to that app/website and spend 10 minutes scrolling it's version of a timeline or "for you" page. 
+    *  Make notes about what it recommends for you, ads, etc.
 * **Reflection:**
-    * Write a short reflection (~100 words) about why you think the algoritm showed you what it did. You can omit personal information.
+    * Write a short reflection (~100 words) about why you think the algoritm showed you what it did on this fresh account.
 
-* **Submit on Canvas:**
+* **Submit on Canvas - Week 6 Lab:**
+    * Your log
     * Your reflection
 
 * **Due:** Monday, October 19 at 11:59pm
