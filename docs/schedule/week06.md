@@ -11,8 +11,8 @@ Social media didn't invent the performance of the self, but it did change the st
 * Read:
     * [Renovate Your Social Media Profile](https://www.datadetoxkit.org/en/privacy/profile) (it's also encouraged, but not required, to look through the rest of the [Data Detox Kit](https://www.datadetoxkit.org/en/home))
 * Listen:
-    * [Do You Know How Your Phone Works?](https://trumpconlaw.com/do-you-know-how-your-phone-works)
-    * [How algorithms are changing the way we speak](https://www.npr.org/2025/08/19/nx-s1-5506168/how-algorithms-are-changing-the-way-we-speak)
+    * [Do You Know How Your Phone Works?](https://trumpconlaw.com/96-do-you-know-how-your-phone-works) (you can also [read the transcript](https://99percentinvisible.org/wp-content/uploads/2026/08/CL_96_Do_You_Know_How_Your_Phone_Works.docx.pdf))
+    * [How algorithms are changing the way we speak](https://www.npr.org/2025/08/19/nx-s1-5506168/how-algorithms-are-changing-the-way-we-speak) (you can also [read the transcript](https://www.npr.org/transcripts/nx-s1-5506168))
 
 ## Tuesday, October 13, 2026
 
@@ -31,8 +31,7 @@ Social media didn't invent the performance of the self, but it did change the st
 ### For class on Thursday:
 * Read:
     * [Hide and Seek on our Feed](https://datadetoxkit.org/en/wellbeing/filterbubbles/)
-* Listen:
-    * [Who Was Lonelygirl15?](https://slate.com/podcasts/decoder-ring/2026/04/how-early-youtube-star-lonelygirl15-helped-birth-the-internet-as-we-know-it)
+    * [The Age of Algorithmic Anxiety](https://www.newyorker.com/culture/infinite-scroll/the-age-of-algorithmic-anxiety)
 
 ## Thursday, October 15, 2026
 
@@ -41,7 +40,8 @@ Social media didn't invent the performance of the self, but it did change the st
 * Discussion
     * Questions provided by this week's question askers
 
-* Lab
+* Lab: Comment Analysis
+    * Separate into groups, each group is given a comment section from a social media post
 
 ## Week 6 Homework
 * **Algorithm Log:**
@@ -49,7 +49,7 @@ Social media didn't invent the performance of the self, but it did change the st
     * Navigate to that app/website and spend 10 minutes scrolling it's version of a timeline or "for you" page. 
     *  Make notes about what it recommends for you, ads, etc.
 * **Reflection:**
-    * Write a short reflection (~100 words) about why you think the algoritm showed you what it did on this fresh account.
+    * Write a short reflection (~100 words) about why you think the algorithm showed you what it did on this fresh account.
 
 * **Submit on Canvas - Week 6 Lab:**
     * Your log
