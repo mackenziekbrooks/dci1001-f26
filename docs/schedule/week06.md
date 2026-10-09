@@ -32,6 +32,9 @@ Social media didn't invent the performance of the self, but it did change the st
 * Read:
     * [Hide and Seek on our Feed](https://datadetoxkit.org/en/wellbeing/filterbubbles/)
     * [The Age of Algorithmic Anxiety](https://www.newyorker.com/culture/infinite-scroll/the-age-of-algorithmic-anxiety)
+* Optional:
+    * Listen [Who Was Lonelygirl15?](https://slate.com/podcasts/decoder-ring/2026/04/how-early-youtube-star-lonelygirl15-helped-birth-the-internet-as-we-know-it) ([transcript](https://slate.com/transcripts/dVdHVjA5ajNqdFlaTXZZMHkwVHo4S2JsZlRXUHlrWlBud293Q1MyTWJncz0=))
+        * Super interesting podcast about the 2006 YouTube “diary” vlogger who became the platform’s first true star, and a surprisingly good lens for watching the whole influencer/parasocial internet take shape years before anyone had a name for it.
 
 ## Thursday, October 15, 2026
 
@@ -42,6 +45,22 @@ Social media didn't invent the performance of the self, but it did change the st
 
 * Lab: Comment Analysis
     * Separate into groups, each group is given a comment section from a social media post
+    * **Step 1: Read.** Read the post, then skim the comments. Before analyzing anything, write down who you think the post was made for.
+    * **Step 2: Sort.** Researchers call this "coding": reading something closely and labeling each piece by what it's doing. Everyone in the group reads the same 20 comments on their own and writes a label next to each one, then you compare. Here are some example labels, though you are encouraged to come up with some of your own:
+        * Support or agreement
+        * Personal story or "what about me" (the commenter makes the post about themselves)
+        * Joke or meme
+        * Dunk or mockery
+        * Genuine question
+        * Correction or pushback
+        * Pile-on or bad faith
+        * Bot or spam
+    * **Step 3: Discourse analysis.** Discuss as a group:
+        * **Audience:** Who is actually commenting, compared to who the post was for? Was there context collapse?
+        * **Performance:** What are commenters performing (expertise, membership, humor, outrage), and for whom?
+        * **Language:** What slang, algospeak, emoji, or in-group references show up? How do people signal tone?
+        * **Algorithm:** The comments are printed in the order the platform showed them, so the ones at the top are what the algorithm decided most viewers should see first. Compare the first 5 comments to the last 5 (and look at the like counts if they're shown). What do the top comments have in common: humor, outrage, agreement, something else? What kinds of comments are missing from the top? If you only read the first few, what would you think this conversation was like?
+    * **Findings:** As a group, write 3-4 sentences on the main pattern you found. We'll compare across groups at the end: did different kinds of posts produce different kinds of discourse?
 
 ## Week 6 Homework
 * **Algorithm Log:**
