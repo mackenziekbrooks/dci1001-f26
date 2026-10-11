@@ -13,6 +13,7 @@ repo_url = "https://github.com/mackenziekbrooks/dci1001-f26"
 nav = [
   { "Home" = "index.md" },
   { "Assignments" = "assignments.md" },
+  { "Domain" = "domain.md" },
   { "Schedule" = [
     "schedule/week01.md",
     "schedule/week02.md",
