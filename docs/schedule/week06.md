@@ -22,7 +22,7 @@ Social media didn't invent the performance of the self, but it did change the st
 
 * Lab: Mini Research Project
     * Research question: What has this platform figured out about me?
-    * Separate into groups, each group member picks one platform they use regularly (Instagram, TikTok, Spotify, etc)
+    * Separate into groups, each group member picks one platform they use regularly (Instagram, TikTok, Spotify, Google etc)
     * Potential research methods: Search your name, either via traditional search engines or AI engines (if using the latter, consider where it got that info); find your platform's ad preferences section; dig into your platform's privacy settings; etc.
     * Keep "field notes”. We will reconvene as a class and share your findings, compare research methods, and see how successful you were.
         * Some questions to keep in mind as you go: How hard is it to get to your personal data? Could you delete or correct something you disagree with? Did anything surprise you?
@@ -80,7 +80,7 @@ Social media didn't invent the performance of the self, but it did change the st
         * How many ads did you see, what were they for?
         * Did anything surprise you?
 * **Reflection:**
-    * Write a short reflection (~100 words) about why you think the algorithm showed you what it did on this fresh account. Use examples from your log and connect it to ideas discussed in class or in your readings.
+    * Write a short reflection (200-300 words) about why you think the algorithm showed you what it did on this fresh account. Use examples from your log and connect it to ideas discussed in class or in your readings.
 
 * **Submit on Canvas - Week 6 Lab:**
     * Your log + reflection in one submission
