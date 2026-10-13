@@ -18,6 +18,8 @@ Social media didn't invent the performance of the self, but it did change the st
 
 * Icebreaker
 * [engagement sign up](https://wlu.app.box.com/notes/2406067290939)! 
+    * Four more weeks of discussion, so everyone gets practice each role again
+    * Reminder, discussion leads are supposed to create activities and do things like call on group members to make sure everyone is participating. [See the assignments page](https://mackenziekbrooks.github.io/dci1001-f26/assignments/#discussion-leader)
 * Lecture: Social Media: Privacy, Identity, and Algorithms
 
 * Lab: Mini Research Project
