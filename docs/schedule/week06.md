@@ -21,11 +21,13 @@ Social media didn't invent the performance of the self, but it did change the st
 * Lecture: Social Media: Privacy, Identity, and Algorithms
 
 * Lab: Mini Research Project
-    * Separate into groups, each group member picks one platform they use regularly (Instagram, TikTok, Spotify, etc)
     * Research question: What has this platform figured out about me?
+    * Separate into groups, each group member picks one platform they use regularly (Instagram, TikTok, Spotify, etc)
     * Potential research methods: Search your name, either via traditional search engines or AI engines (if using the latter, consider where it got that info); find your platform's ad preferences section; dig into your platform's privacy settings; etc.
-    * Keep "field notes" in a box note in our class folder. We will reconvene as a class and share your findings, compare research methods, and see how successful you were.
-    * **NOTE:** This is personal. Only share what group members are comfortable sharing, and no personal data needs to be reported to the class unless you want to.
+    * Keep "field notes”. We will reconvene as a class and share your findings, compare research methods, and see how successful you were.
+        * Some questions to keep in mind as you go: How hard is it to get to your personal data? Could you delete or correct something you disagree with? Did anything surprise you?
+    * NOTE: This is personal. Only share what group members are comfortable sharing, and no personal data needs to be reported to the class unless you want to.
+
 
 
 ### For class on Thursday:
@@ -65,13 +67,22 @@ Social media didn't invent the performance of the self, but it did change the st
 ## Week 6 Homework
 * **Algorithm Log:**
     * Create a new account on a social media app/website of your choice.
+        * If you don't have another email to use, here are a few websites that provide temporary emails:
+            * [10 Minute Mail](https://10minutemail.com/)
+            * [Temp Mail](https://temp-mail.org/en/)
+            * [Guerrilla Mail](https://www.guerrillamail.com/)
     * Navigate to that app/website and spend 10 minutes scrolling it's version of a timeline or "for you" page. 
-    *  Make notes about what it recommends for you, ads, etc.
+    * After about 5 minutes, add some engagement: like a couple of things or rewatch a video or click through to someone's profile. Then scroll some more.
+        * How did engaging with those posts change your feed?
+    * Your log should include: 
+        * Which platform you used and what information you gave it when you signed up (age, location, contacts, things it asked for initially).
+        * What was the first thing it showed you, before it knew anything about you? Did anything change after the halfway point?
+        * How many ads did you see, what were they for?
+        * Did anything surprise you?
 * **Reflection:**
-    * Write a short reflection (~100 words) about why you think the algorithm showed you what it did on this fresh account.
+    * Write a short reflection (~100 words) about why you think the algorithm showed you what it did on this fresh account. Use examples from your log and connect it to ideas discussed in class or in your readings.
 
 * **Submit on Canvas - Week 6 Lab:**
-    * Your log
-    * Your reflection
+    * Your log + reflection in one submission
 
 * **Due:** Monday, October 19 at 11:59pm
