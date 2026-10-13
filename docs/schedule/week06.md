@@ -21,6 +21,7 @@ Social media didn't invent the performance of the self, but it did change the st
     * Four more weeks of discussion, so everyone gets practice each role again
     * Reminder, discussion leads are supposed to create activities and do things like call on group members to make sure everyone is participating. [See the assignments page](https://mackenziekbrooks.github.io/dci1001-f26/assignments/#discussion-leader)
 * Lecture: Social Media: Privacy, Identity, and Algorithms
+    * [Slides](https://docs.google.com/presentation/d/1dsHkijUSXon2DYz8rkPZGI4hqd-zQ5_Rkx7MTaehZz8/edit?usp=sharing)
 
 * Lab: Mini Research Project
     * Research question: What has this platform figured out about me?
