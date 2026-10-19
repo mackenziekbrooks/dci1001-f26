@@ -16,7 +16,12 @@ While we're not doing advanced stats in this class, we do need to know some thin
 
 * icebreaker
 * lecture: how data works
-* lab: data visualization
+* Lab: Turn your comment analysis into data
+    * Work in the same groups as Thursday's comment analysis lab. Using your marked-up printout, build a small dataset in Google Sheets, then make charts that show something you noticed last week. [Full lab instructions](https://wlu.box.com/s/9foiljixkgrxahs84evua97zdln9kkns)
+    * Research question: What does the data from your comment section show?
+    * Build the dataset: Decide what to record about each comment, and why. You choose the columns, and you'll need to explain each one and how you decided on its values. Leave out usernames.
+    * Make some charts that help you look into your focus, with titles that state a finding.
+    * Reflect.
 
 ### Prep for Thursday: 
 
