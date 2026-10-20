@@ -22,23 +22,23 @@ While we're not doing advanced stats in this class, we do need to know some thin
 	* We're not doing statistics here. Counts, comparisons, and clear charts are enough. What we're practicing is the part that comes before the chart: deciding what counts as data. 
 	* Research question: What does the data from your comment section show?
 	* **Part 1: Make your dataset**
-		* Start with a focus, not a spreadsheet. Look at your Week 6 discourse analysis and choose one thing you noticed that you could check with counts. For example: "most comments were jokes, not reactions to the post," or "the comments at the top of the feed were more negative than the ones at the bottom." 
-		* Brainstorm everything you could record, then cut. Before you open Google Sheets, spend a few minutes listing every piece of information you could write down about each comment. Then decide which ones help you check your focus. Here are some places to start. They're possibilities, not requirements:
+		* Start with a focus. Look at your Week 6 discourse analysis and choose one thing you noticed that you could check with counts. For example: "most comments were jokes, not reactions to the post," or "the comments at the top of the feed were more negative than the ones at the bottom." 
+		* Brainstorm everything you could record. Before you open Google Sheets, spend a few minutes listing every piece of information you could write down about each comment. Then decide which ones help you check your focus. Here are some places to start. They're possibilities, not requirements:
 			* About the comment itself: the exact text, its position in the comment order, word count, whether it has emojis,date or time commented (if shown)
 			* How people reacted to it: likes, number of replies, whether the creator liked it
 			* Your interpretation: the category you gave it in Thursday's "Sort" step, tone (sincere, joking, sarcastic, unclear), who it's aimed at, whether it uses slang or algospeak, whether you'd need an in-joke to understand it, whether it agrees with the post
-		* Choose at least 3 pieces of information to turn into columns on your spreadsheet. One column has to be an ID (C01, C02...) for each comment, and one should have the text of the comment. Everything else is your call. Your group should be able to answer these questions about your dataset:
+		* Choose at least 3 pieces of information to turn into columns on your spreadsheet. Your Sheet already has each comment's ID (C01, C02...) and text, so everything else is your call. Your group should be able to answer these questions about your dataset:
 			* Why is each column there? What does it help you check? 
 			* What are the allowed values, and how did you decide? For example, for a column like "tone," what makes a comment sarcastic and not just joking?
 			* Which of your columns are measurements, and which are interpretation? Word count is a measurement. Tone is an interpretation. Interpretation columns need the clearest rules, because two people can read the same comment differently
-		* Set up the spreadsheet. Create three tabs: Data, Viz, and Notes. Your comment data will go into rows and columns in Data, the charts you make will go in Viz, and anything that would be helpful for you to have written down for your process (maybe your focus or any rules about, for example, what constitutes a joke vs pushback) will go in Notes.
-			* Each comment has its own row. Each column is a variable about the comments. Fill in the first row with your column headers (eg: ID, comment text, etc.) No merged cells and no blank rows between entries (this is good practice for a clean dataset).
-			* Enter all of your comments and their variables.
+		* Use the Sheet we gave you. It already has three tabs: Data, Viz, and Notes. The comment IDs and text are entered in Data. The charts you make will go in Viz. Use Notes for anything that would be helpful to have written down about your process, like your focus or your rules for what counts as, for example, a joke vs. pushback.
+			* Each comment has its own row. Each column is a variable about the comments. Add your column headers in the first row, next to the ID and comment text columns (eg: Tone, Word count, etc.). No merged cells and no blank rows between entries (this is good practice for a clean dataset).
+			* Fill in every column for every comment using your printout.
 			* Leave out usernames. The commenters are ordinary people who posted without knowing their comments would end up in a class dataset. Thinking about that is part of research ethics: even when data is public, it’s good practice to collect only what you need.
 		* Keep your data clean as you go
 			* Keep labels consistent. Otherwise "Joke," "joke," and "jokes" become three different categories and your counts will be wrong.
 			* Keep number columns as plain numbers. Only numbers, nothing like "N/A" or "lots." Leave a cell blank if you don't have the value. If a platform shows "1.2K likes," enter 1200.
-			* Word count formula: `=IF(E2="","",COUNTA(SPLIT(E2," ")))` counts the words in cell E2. Change E2 to wherever your comment text is, and fill it down.
+			* Word count formula: `=IF(B2="","",COUNTA(SPLIT(B2," ")))` counts the words in cell B2. Change B2 to wherever your comment text is, and fill it down.
 	* **Part 2: Make your charts**
 		* Make at least two charts that help you look into your focus. You choose the chart types. Use what we covered in lecture about what each type is good at showing.
 		* How to choose: For each chart, decide what you want to show (a comparison, parts of a whole, how values are spread out, a relationship, or change over an order), which column or columns you need, and which chart type fits.
@@ -48,12 +48,12 @@ While we're not doing advanced stats in this class, we do need to know some thin
 			* Click Insert → Chart. Sheets will create a chart with a type of its own suggestion.
 			* In the chart editor on the right, open the setup tab and use the chart type dropdown menu to choose your type. If the chart groups the wrong way (for example, one bar per tone instead of one bar per category), check switch rows/columns. If a header is being plotted as data, check use row 1 as headers. If Sheets draws one bar per comment instead of counting each label, check aggregate under the X-axis.
 			* Open the customize tab. Under chart & axis titles, add a chart title and axis titles. Under series, you can change colors, add data labels so the numbers appear on the chart, or add a trendline to a scatter chart. 
-			* Put the chart on the Viz tab. New charts appear on top of your data, so move each one when it looks right. Click the chart, click the three dots in its top right corner, and choose copy chart. Go to the Viz tab, click an empty cell, and paste. Then go back to the Data tab and delete the original chart. To edit a chart later, double-click it on the Summary tab.
+			* Put the chart on the Viz tab. New charts appear on top of your data, so move each one when it looks right. Click the chart, click the three dots in its top right corner, and choose copy chart. Go to the Viz tab, click an empty cell, and paste. Then go back to the Data tab and delete the original chart. To edit a chart later, double-click it on the Viz tab.
 		* Make each chart readable:
 			* Write the title as a finding, not a label. "Most comments on the post were jokes" is a title. "Tone counts" isn't. You may need to make the chart first and then write the title.
 			* Label both axes with what they measure.
 	* **Part 3: Share and discuss as a class**
-		* Reconvene as a class. Each group shows their Summary tab and takes about two minutes to share: what did your charts show, and how does that connect to last week's discourse analysis? Why did you choose the charts you did?
+		* Reconvene as a class. Each group shows their Viz tab and takes about two minutes to share: what did your charts show, and how does that connect to last week's discourse analysis? Why did you choose the charts you did?
 
 ### Prep for Thursday: 
 
