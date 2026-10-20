@@ -16,12 +16,11 @@ While we're not doing advanced stats in this class, we do need to know some thin
 
 * icebreaker
 * lecture: how data works
-* Lab: Turn your comment analysis into data
+??? info "Lab: Turn your comment analysis into data"
+	
 	* Work in the same groups as Thursday's comment analysis lab. Your starting material is your marked-up printout. You'll turn it into a small dataset in Google Sheets, then make charts that show something you noticed last week.
 	* We're not doing statistics here. Counts, comparisons, and clear charts are enough. What we're practicing is the part that comes before the chart: deciding what counts as data. 
 	* Research question: What does the data from your comment section show?
-??? info
-	
 	* **Part 1: Make your dataset**
 		* Start with a focus, not a spreadsheet. Look at your Week 6 discourse analysis and choose one thing you noticed that you could check with counts. For example: "most comments were jokes, not reactions to the post," or "the comments at the top of the feed were more negative than the ones at the bottom." 
 		* Brainstorm everything you could record, then cut. Before you open Google Sheets, spend a few minutes listing every piece of information you could write down about each comment. Then decide which ones help you check your focus. Here are some places to start. They're possibilities, not requirements:
