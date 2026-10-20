@@ -21,6 +21,7 @@ While we're not doing advanced stats in this class, we do need to know some thin
 	* Work in the same groups as Thursday's comment analysis lab. Your starting material is your marked-up printout. You'll turn it into a small dataset in Google Sheets, then make charts that show something you noticed last week.
 	* We're not doing statistics here. Counts, comparisons, and clear charts are enough. What we're practicing is the part that comes before the chart: deciding what counts as data. 
 	* Research question: What does the data from your comment section show?
+	* [Group spreadsheets can be found here](https://drive.google.com/drive/folders/1cP7Uy3jYEhZ2gs204k1YH_0eAiFPwAKB?usp=sharing)
 	* **Part 1: Make your dataset**
 		* Start with a focus. Look at your Week 6 discourse analysis and choose one thing you noticed that you could check with counts. For example: "most comments were jokes, not reactions to the post," or "the comments at the top of the feed were more negative than the ones at the bottom." 
 		* Brainstorm everything you could record. Before you open Google Sheets, spend a few minutes listing every piece of information you could write down about each comment. Then decide which ones help you check your focus. Here are some places to start. They're possibilities, not requirements:
@@ -31,14 +32,16 @@ While we're not doing advanced stats in this class, we do need to know some thin
 			* Why is each column there? What does it help you check? 
 			* What are the allowed values, and how did you decide? For example, for a column like "tone," what makes a comment sarcastic and not just joking?
 			* Which of your columns are measurements, and which are interpretation? Word count is a measurement. Tone is an interpretation. Interpretation columns need the clearest rules, because two people can read the same comment differently
-		* Use the Sheet we gave you. It already has three tabs: Data, Viz, and Notes. The comment IDs and text are entered in Data. The charts you make will go in Viz. Use Notes for anything that would be helpful to have written down about your process, like your focus or your rules for what counts as, for example, a joke vs. pushback.
+		* Use the Sheet we gave you. [All groups sheets can be found here](https://drive.google.com/drive/folders/1cP7Uy3jYEhZ2gs204k1YH_0eAiFPwAKB?usp=sharing) It already has three tabs: Data, Viz, and Notes. The comment IDs and text are entered in Data. The charts you make will go in Viz. Use Notes for anything that would be helpful to have written down about your process, like your focus or your rules for what counts as, for example, a joke vs. pushback.
 			* Each comment has its own row. Each column is a variable about the comments. Add your column headers in the first row, next to the ID and comment text columns (eg: Tone, Word count, etc.). No merged cells and no blank rows between entries (this is good practice for a clean dataset).
 			* Fill in every column for every comment using your printout.
-			* Leave out usernames. The commenters are ordinary people who posted without knowing their comments would end up in a class dataset. Thinking about that is part of research ethics: even when data is public, it’s good practice to collect only what you need.
+			* Leave out usernames. The commenters are ordinary people who posted without knowing their comments would end up in a class dataset. Thinking about that is part of research ethics: even when data is public, it’s good practice to collect only what you need. 
+				* It's okay to note whether the commenter has a verified account.
 		* Keep your data clean as you go
 			* Keep labels consistent. Otherwise "Joke," "joke," and "jokes" become three different categories and your counts will be wrong.
 			* Keep number columns as plain numbers. Only numbers, nothing like "N/A" or "lots." Leave a cell blank if you don't have the value. If a platform shows "1.2K likes," enter 1200.
 			* Word count formula: `=IF(B2="","",COUNTA(SPLIT(B2," ")))` counts the words in cell B2. Change B2 to wherever your comment text is, and fill it down.
+				* Note: Emoji and placeholders like [GIF: ...] may be counted as words depending on spacing. Decide as a group whether to leave word count blank for emoji-only and GIF comments, and write your rule in Notes.
 	* **Part 2: Make your charts**
 		* Make at least two charts that help you look into your focus. You choose the chart types. Use what we covered in lecture about what each type is good at showing.
 		* How to choose: For each chart, decide what you want to show (a comparison, parts of a whole, how values are spread out, a relationship, or change over an order), which column or columns you need, and which chart type fits.
