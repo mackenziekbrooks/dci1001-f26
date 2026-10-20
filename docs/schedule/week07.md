@@ -39,7 +39,7 @@ While we're not doing advanced stats in this class, we do need to know some thin
 			* Keep labels consistent. Otherwise "Joke," "joke," and "jokes" become three different categories and your counts will be wrong.
 			* Keep number columns as plain numbers. Only numbers, nothing like "N/A" or "lots." Leave a cell blank if you don't have the value. If a platform shows "1.2K likes," enter 1200.
 			* Word count formula: `=IF(E2="","",COUNTA(SPLIT(E2," ")))` counts the words in cell E2. Change E2 to wherever your comment text is, and fill it down.
-	* **Part 1: Make your dataset**
+	* **Part 2: Make your charts**
 		* Make at least two charts that help you look into your focus. You choose the chart types. Use what we covered in lecture about what each type is good at showing.
 		* How to choose: For each chart, decide what you want to show (a comparison, parts of a whole, how values are spread out, a relationship, or change over an order), which column or columns you need, and which chart type fits.
 		* Match the chart to the data. A chart type can make the wrong point. A pie chart with ten slices or a line chart across unordered categories will mislead your reader.
