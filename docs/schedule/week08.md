@@ -3,20 +3,24 @@ icon: lucide/play
 title: Week 8
 ---
 
-# Week 8 - The Scholarship of Social Media
+# Week 8 - Scholarship as Conversation
 
 Time to dig in on research! We'll hear from an active digital history project and get assistance from a librarian as we build a bibliography for our projects. 
 
-**For Tuesday:**
+### For Tuesday:
 
-* Spend some time on the [Indymedia Explained](https://indymediaxplained.com/) website and come with questions!
+* Spend some time on the [Indymedia Explained](https://indymediaxplained.com/) website and come with questions! This is a live project that uses web archives to answer historical questions. W&L students are contributing in meaningful and different ways. Be prepared to ask questions about the topic and the process of working on a project like this. 
 * Look at the two articles in the [Week 8](https://wlu.app.box.com/folder/430035930352) folder on Indymedia. You don't have to read the whole thing, try to get a sense of the topic and issues at stake. 
 
 ## Tuesday, October 27, 2026
 
 * icebreaker
 * guest lecture by Indymedia Explained project team: Prof. Romina Green, Diego!, Geena Ravelo Cepero, and Adriana Aviles-Reynado
-* Lab/discussion: 
+* Lab/discussion: existing project examples + workshopping project ideas
+
+### For Thursday:
+
+* Read [AI is Ruining Scholarship](https://www.chronicle.com/article/ai-is-ruining-scholarship)
 
 
 ## Thursday, October 29, 2026

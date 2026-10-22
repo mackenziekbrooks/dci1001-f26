@@ -16,6 +16,8 @@ While we're not doing advanced stats in this class, we do need to know some thin
 
 * icebreaker
 * lecture: how data works
+* [slides](https://docs.google.com/presentation/d/17nZOovsysIf1fe2hmNhAlARUMvywF_0y7Al3L6IqJ1k/edit?usp=sharing)
+
 ??? info "Lab: Turn your comment analysis into data"
 	
 	* Work in the same groups as Thursday's comment analysis lab. Your starting material is your marked-up printout. You'll turn it into a small dataset in Google Sheets, then make charts that show something you noticed last week.
