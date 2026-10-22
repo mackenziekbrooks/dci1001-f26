@@ -9,12 +9,13 @@ Time to dig in on research! We'll hear from an active digital history project an
 
 **For Tuesday:**
 
-* Spend some time on the [Indymedia Explained](https://indymediaxplained.com/) website and come with questions! 
+* Spend some time on the [Indymedia Explained](https://indymediaxplained.com/) website and come with questions!
+* Look at the two articles in the [Week 8](https://wlu.app.box.com/folder/430035930352) folder on Indymedia. You don't have to read the whole thing, try to get a sense of the topic and issues at stake. 
 
 ## Tuesday, October 27, 2026
 
 * icebreaker
-* guest lecture by Indymedia Explained project team 
+* guest lecture by Indymedia Explained project team: Prof. Romina Green, Diego!, Geena Ravelo Cepero, and Adriana Aviles-Reynado
 * Lab/discussion: 
 
 
