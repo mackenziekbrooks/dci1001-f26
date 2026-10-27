@@ -1,5 +1,5 @@
 ---
-icon: lucide/layout-list
+icon: lucide/notebook
 title: Resources
 ---
 
