@@ -17,9 +17,15 @@ Time to dig in on research! We'll hear from an active digital history project an
 * icebreaker
 * guest lecture by Indymedia Explained project team: Prof. Romina Green, Diego!, Geena Ravelo Cepero, and Adriana Aviles-Reynado
 * Lab/discussion: existing project examples + workshopping project ideas
+  * Group 1: Adam, Melda, Joey, Kaitlyn, Bruno (Prof. Brooks) 
+  * Group 2: Cami, Allie G, Diego, Allie M, Turner (Prof. McIntush)
+  * Step 1: Share your project topic ideas and how you feel about them. Each member of the group should plan to share something - reaction, idea, encouragement, or gentle critique. What is interesting or exciting about their topic? What are potential data sources (websites, social media) that they could use? Have you seen similar projects, accounts, coverage elsewhere? 
+  * Step 2: Spend some time looking at the example projects. What is inspiring you? What might help you make a decision? 
+    
 
 ### For Thursday:
 
+* Watch [Open Access Explained](https://www.youtube.com/watch?v=L5rVH1KGBCY)
 * Read [AI is Ruining Scholarship](https://www.chronicle.com/article/ai-is-ruining-scholarship)
 
 
