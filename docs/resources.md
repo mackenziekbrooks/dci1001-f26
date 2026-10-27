@@ -75,7 +75,7 @@ What to pay attention to: Start with the abstract, skim the introduction, then f
 
 * **Social Interaction, Support Preferences, and the Use of Wearable Health Trackers**
 
-    * Authors: Natalie Pennington, Linda Dam - [Link](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2023.1256452/pdf)
+    * Authors: Natalie Pennington, Linda Dam - [Link](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2023.1256452/full)
     * Two online surveys on how social factors, like comparing yourself to others and sharing data, relate to how often people use fitness trackers and smartwatches
     * Surveyed 333 university students and 319 adults
     * Useful if you're interested in wearables, fitness, or social comparison
