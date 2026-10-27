@@ -74,13 +74,10 @@ Authors: Elizabeth A. Killick, Mark D. Griffiths - [Link](https://pmc.ncbi.nlm.n
 * Collected 3,375 tweets 
 * Useful if you're interested in online marketing, gambling, or sports
 
-### Reconstructing a Website's Lost Past: Methodological Issues Concerning the History of Unibo.it
+### An Empirical Content Analysis of Posts Made to the r/depression Subreddit
  
-Author: Federico Nanni - [Link to paper](https://dhq-static.digitalhumanities.org/pdf/000292.pdf)
+Author: Kurt Marais - [Link](https://upjournals.up.ac.za/index.php/dhasa/article/view/5419)
  
-* A historical study of the first 25 years of the University of Bologna's website, which was missing from the Wayback Machine for 13 years
-* Combined yearbooks, interviews with former website managers, newspapers, student forums, and snapshots from other countries' web archives
-* Useful if you're interested in web history or what to do when an archive has gaps
-
-
-
+* A content analysis of posts to a large mental health community on Reddit, looking at engagement, posting times, common words, and the ages and locations of users
+* Collected 11,975 posts by 9,593 accounts over 56 days
+* Useful if you're interested in mental health or online communities, and it raises ethics questions about studying vulnerable groups
