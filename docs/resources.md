@@ -74,5 +74,13 @@ Authors: Elizabeth A. Killick, Mark D. Griffiths - [Link](https://pmc.ncbi.nlm.n
 * Collected 3,375 tweets 
 * Useful if you're interested in online marketing, gambling, or sports
 
+### Reconstructing a Website's Lost Past: Methodological Issues Concerning the History of Unibo.it
+ 
+Author: Federico Nanni - [Link to paper](https://dhq-static.digitalhumanities.org/pdf/000292.pdf)
+ 
+* A historical study of the first 25 years of the University of Bologna's website, which was missing from the Wayback Machine for 13 years
+* Combined yearbooks, interviews with former website managers, newspapers, student forums, and snapshots from other countries' web archives
+* Useful if you're interested in web history or what to do when an archive has gaps
+
 
 

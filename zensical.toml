@@ -14,7 +14,7 @@ nav = [
   { "Home" = "index.md" },
   { "Assignments" = "assignments.md" },
   { "Domain" = "domain.md" },
-  { "Resources" = "resources.md" }
+  { "Resources" = "resources.md" },
   { "Schedule" = [
     "schedule/week01.md",
     "schedule/week02.md",
