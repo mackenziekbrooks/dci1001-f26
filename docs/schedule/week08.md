@@ -15,19 +15,20 @@ Time to dig in on research! We'll hear from an active digital history project an
 ## Tuesday, October 27, 2026
 
 * icebreaker
+* [engagement/discussion signup](https://wlu.app.box.com/notes/2406067290939)
 * guest lecture by Indymedia Explained project team: Prof. Romina Green, Diego!, Geena Ravelo Cepero, and Adriana Aviles-Reynado
 * Lab/discussion: existing project examples + workshopping project ideas
   * Group 1: Adam, Melda, Joey, Kaitlyn, Bruno (Prof. Brooks) 
   * Group 2: Cami, Allie G, Diego, Allie M, Turner (Prof. McIntush)
   * Step 1: Share your project topic ideas and how you feel about them. Each member of the group should plan to share something - reaction, idea, encouragement, or gentle critique. What is interesting or exciting about their topic? What are potential data sources (websites, social media) that they could use? Have you seen similar projects, accounts, coverage elsewhere? 
-  * Step 2: Spend some time looking at the example projects. What is inspiring you? What might help you make a decision? 
+  * Step 2: Spend some time looking at the example projects on the new [Resources](https://mackenziekbrooks.github.io/dci1001-f26/resources/#examples-of-research-on-internet-and-social-media-culture) page. What is inspiring you? What might help you make a decision? 
     
 
 ### For Thursday:
 
 * Watch [Open Access Explained](https://www.youtube.com/watch?v=L5rVH1KGBCY)
 * Read [AI is Ruining Scholarship](https://www.chronicle.com/article/ai-is-ruining-scholarship)
-
+* Google Your Professor! - In order to understand how scholarship works, pick one of your professors and Google them to find out more about their academic (not personal!) life. Read their university profile and their CV (curriculum vitae or long resume). Question askers and discussion leads can work with this activity, but sample questions include: What did your professor major in and is it the same thing they teach? What are their publications about? What kind of publications are they producing? Do they get grants? Do they collaborate or work solo? 
 
 ## Thursday, October 29, 2026
 
