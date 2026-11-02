@@ -20,6 +20,7 @@ This will we'll concentrate on exploring web scraping and internet research tool
 ### For Thursday:
 
 * [Social Media Research: A Guide to Ethics](https://greatermanchester.ac.uk/assets/Uploads/Social-media-ethics-study-Aberdeen-2018.pdf)
+* [How to Use—And How Not to Use—Public Forums in Research](https://www.jmir.org/2026/1/e112727)
 
 
 ## Thursday, November 5, 2026
