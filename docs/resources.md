@@ -79,3 +79,34 @@ What to pay attention to: Start with the abstract, skim the introduction, then f
     * Two online surveys on how social factors, like comparing yourself to others and sharing data, relate to how often people use fitness trackers and smartwatches
     * Surveyed 333 university students and 319 adults
     * Useful if you're interested in wearables, fitness, or social comparison
+
+## Research Tools
+
+These are tools researchers use to find, collect, or explore social media data. Many of them come from the Social Media Lab's [Social Media Toolkit](https://socialmedialab.ca/apps/social-media-toolkit/), an older, non-exhaustive list of open access tools that is worth browsing for more options. All of them are free to use and none requires coding. Because they are free, they are limited in what they can collect, as we talked about in class, so read each tool's own documentation before you rely on it.
+
+* **Zeeschuimer**
+    * [Link](https://github.com/digitalmethodsinitiative/zeeschuimer)
+    * A Firefox browser extension from the Digital Methods Initiative that saves the data a site sends to your browser while you scroll, so you can collect posts from platforms like TikTok, Instagram, and X without an API. You can export what it captures as a spreadsheet-friendly file or send it to the analysis tool 4CAT. It only collects what you load, and it can't capture some views, like Instagram Stories.
+* **YouTube Data Tools: Video Comments**
+    * [Link](https://ytdt.digitalmethods.net/video-comments)
+    * Enter a YouTube video ID and this tool downloads the video's comments along with basic information about the video. It is one of several modules in YouTube Data Tools, built by Bernhard Rieder at the Digital Methods Initiative. The tool's own documentation warns that its data handling may not comply with GDPR, so stick to public videos and think about what you keep.
+* **OSoMeNet**
+    * [Link](https://osome.iu.edu/tools/osomenet/)
+    * A tool from Indiana University's Observatory on Social Media that draws diffusion graphs showing who amplified what, and how often, through replies, reposts, mentions, or hashtags. It works with data from Bluesky, Mastodon, TikTok, and the Observatory's own archive. Useful if you're interested in how information spreads and which communities form around it.
+* **Meta Ad Library (political and issue ads)**
+    * [Link](https://business.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&sort_data[mode]=total_impressions&sort_data[direction]=desc)
+    * Meta's public archive of ads that ran on Facebook and Instagram. This link searches active political and social issue ads in the US, sorted by total impressions, and the library shows who paid for each ad. Useful if you're interested in political advertising or how campaigns try to reach people.
+* **SteamID.uk**
+    * [Link](https://steamid.uk/)
+    * Enter a Steam ID or profile URL to see an account's past avatars and names, ban records, and a reputation score. Useful if you're interested in gaming communities, but it looks up individual people's accounts, so be careful with identifiable information.
+* **SOMAR: Social Media Archive at ICPSR**
+    * [Link](https://www.icpsr.umich.edu/sites/somar/search/studies?q=)
+    * A collection of public and restricted social media datasets, held at the University of Michigan's ICPSR data archive, that you can search by topic. Restricted data requires an application and is accessed through a secure virtual environment. Useful if you'd rather start from data that other researchers already collected and documented than collect your own.
+* * **Communalytic**
+    * [Link](https://communalytic.org/)
+    * A platform for studying online communities that can collect from Bluesky and Reddit for free and others for a fee. It can also use data from a spreadsheet you upload. It includes built-in analysis of networks, sentiment, topics, and toxic or uncivil comments. 
+* **Harvard Dataverse**
+    * [Link](https://dataverse.harvard.edu/dataverse/harvard?q=social+media&types=dataverses%3Adatasets%3Afiles&sort=score&order=desc)
+    * A free, open repository where researchers from any field share their datasets, and this link searches it for "social media." Useful if you'd rather start from data that other researchers already collected than collect your own. Check each dataset's description and any conditions on its use before relying on it.
+
+
