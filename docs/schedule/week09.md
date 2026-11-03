@@ -10,12 +10,22 @@ This will we'll concentrate on exploring web scraping and internet research tool
 ### For Tuesday:
 
 * Read Chapter 4 of [History in the Age of Abudance?](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12ub5kj/alma991010497997804161)
+* Chapter 6 is also helpful for what we're covering this week.
 
 ## Tuesday, November 3, 2026
 
 * icebreaker
-* slides
-* lab: 
+* [slides](https://docs.google.com/presentation/d/1Ds3KuZiKjUhKqCm2hgjpD7wxZR3u398ez7m1bVp4yjw/edit?usp=sharing)
+* lab: let's review the methods of one of the articles you found in your research
+	* Select an article from your annotated bibliography. It should be have some data/web component if possible. 
+	* Grab some paper and write down the title of your article. 
+	* Transcribe the major headings of the article to create an outline. Can you identify the intro, the literature review, methods, and findings sections? What is the purpose of the other sections? 
+	* Dig into the methods section. What are the verbs? What are the nouns? Did they identify a type of method? Google anything you don't understand. Write down the keywords. 
+	* What about the data? Where did it come from and what the scope (time, source, amount, etc)
+	* Draw a workflow diagram that represents the the method of this article. 
+	* What's the "so what" of the discussion/conclusion section? 
+	* Explain this article and the methods to a neighbor. 
+
 
 ### For Thursday:
 

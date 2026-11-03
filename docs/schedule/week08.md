@@ -61,6 +61,7 @@ Time to dig in on research! We'll hear from an active digital history project an
 * No word count, but be thorough! Show your work, as they say in math class.
 * Free from grammatical errors, typos. 
 * Credit and link out to sources when appropriate. I won't require that you use a certain citation style, but you should be in the habit of crediting sources and using in-text links. If you feel better about using a formal citation style, go for it!
+**Post a picture of your paper or copy and paste your document to your WordPress site. Turn in on Canvas.** 
 
 #### Part 2 
 
