@@ -36,7 +36,8 @@ This will we'll concentrate on exploring web scraping and internet research tool
 ## Thursday, November 5, 2026
 
 * discussion
-* lab
+* [slides](https://docs.google.com/presentation/d/1mVOQZQVBD7XmEJV_yXQzfJbh-RanZAXZBaYA-7Cgr-E/edit?usp=sharing)
+* lab: ethical framework handout [in Box](https://wlu.app.box.com/file/2572885621365) 
 
 
 ## Week 9 homework
