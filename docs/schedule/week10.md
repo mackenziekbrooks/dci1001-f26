@@ -14,7 +14,7 @@ We have data, now how do we make sense of it? We'll cover the basics of text ana
 ## Tuesday, November 10, 2026
 
 * icebreaker
-* lecture: Ways to Read (Taylor's Version) slides
+* lecture: Ways to Read (Taylor's Version) [slides](https://docs.google.com/presentation/d/1XHOkCjdDbn5S-jXZ_JbJPUdTSju1TA2zIv5AD65LCjY/edit?usp=sharing)
 * [sign up for our last week of discussion!](https://wlu.app.box.com/notes/2406067290939) 
 * lab: text analysis with Voyant
 	* [https://voyant-tools.org/](https://voyant-tools.org/) or the [mirror site](https://dream.library.cmu.edu/index.jsp) if need be
