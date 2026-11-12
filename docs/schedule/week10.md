@@ -38,8 +38,16 @@ We have data, now how do we make sense of it? We'll cover the basics of text ana
 
 * icebreaker
 * discussion 
-* text analysis lab continued 
-
+* text analysis lab continued - Let's practice the text analysis process by working with the Ring-tum Phi dataset. Feel free to work with a classmate.
+	* Step 1 - Familiarize yourself with the data source. Browse the [Ring-tum Phi in the Digital Archive](https://digitalarchive.wlu.edu/islandora/ring-tum-phi) to get a sense of the content. Potential topic ideas: coeducation, integration, Y2K, protests and sit-ins, fraternity renaissance, greek life, honor system, national wars/events, local social scene, Mock Con, buildings/renovations, Fancy Dress, advertisements, athletics, relationship with VMI, etc.
+	* Step 2 - Brainstorm some research questions. What can you learn about your topic from student reporting in the Ring-tum Phi **over time**? 
+	* Step 3 - Assemble your corpus/dataset. 
+		* Data: Download a zip files of this dataset by clicking the green button. [Ring-tum Phi dataset](https://github.com/wludh/dataset-RingtumPhi)
+		* Goal: Have a folder on your computer with text files for your selected time period. Each text file should represent a consistent unit of time (by issue, week, month, year, etc). Text files should be named consistently and include the date so you can visualize change over time.
+		* You can open this folder in Sublime and browse your dataset. You can also use Sublime to find and replace content in your dataset. 
+	* Step 4 - Upload your data to Voyant. If you compress/zip your selected data, it should be easy to upload.
+	* Step 5 - Experiment with the analysis/visualization methods and options to see how well you can address your research questions. Which tools work best and which are too wild? 
+	* Step 6 - Export the data and paste into Excel or Google Sheets to create a new visualization. Compare to the existing visualizations in Voyant. Which do you like better? Which has better functionality? 
 
 ## Week 10 Homework - research log
 
