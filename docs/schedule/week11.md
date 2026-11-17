@@ -11,9 +11,14 @@ Time to get things done! Class this week will include some structured activities
 
 * icebreaker
 * project work
+* Groups:
+	* Prof. Brooks: Melda, Diego, Allie M., Turner
+	* Prof. McIntush: Allie G., Bruno, Kaitlyn, Joey, Adam
 
 
 ## Thursday, November 19, 2026
 
 * icebreaker
 * project work
+* WordPress refresher
+*

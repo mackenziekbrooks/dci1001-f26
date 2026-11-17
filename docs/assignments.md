@@ -133,6 +133,8 @@ Your Digital Museum project will not receive its own grade, but will be construc
 
 ## Unit 2 Project - Research Project Prospectus 
 
+### Description
+
 For the second portion of the course, we will focus on how to actually study the internet and all the ways it is shaping behavior. We'll do this by first observing changes in our own lives and the world around us. How does social media create/enrich/harm certain groups? What is the cost of handing over decisions to algorithms? Is it possible to retain your privacy in the age of surveillance? 
 
 Next, we'll look at how scholars are studying these changes and behaviors. How do they capture and access data when feeds are personalized and profiles are private? How do they make sense of results when there are more comments than anyone can possibly read? What happens when major platforms change their architecture or access rules? How do we study something that makes the rules about how it study it? We'll look at projects and scholarship to understand the various approaches and how they differ by discipline. 
@@ -141,17 +143,39 @@ Along the way, you'll craft your own research questions and select an object of 
 
 Like Unit 1, each week's lab homework will contribute to this final project. However, this project will be graded on its own merit at the end of the term. You will be asked to contribute additional pieces to this project, but we are not asking for a complete and polished research project. This assignment is a called a *prospectus* because it will take the results of your experiments and suggest an appropriate path forward for a more complete project. You will be asked to create/gather data using the tools we've used in class, create exploratory visualizations, offer research questions, and share the lessons learned and future directions for this project. We do not expect that you will be successful in all of these experiments! However, your project should be honest and thoughtful about what you tried, what worked and what didn't, what barriers you faced, and what the project could look like with more time and resources. 
 
+### Sections
+
 The prospectus should include the following sections:
 
-* Introduction (based on week 9 proposal)
-* Lit Review (based on week 8)
-* Data (both your object of study + gathered/collected data)
-* Tools/methods (from what we've used in class) 
-* Research questions (informed by literature and some close reading of data)
-* Experiments (I tried this and it worked/failed. I got some data and visualized it). 
-* Conclusion (next steps, reflect on choices, tools, costs, ethics etc.)
+* Introduction - A general introduction to the topic, sources, contexts, and methods. You're trying to answer the question, "why should I care?" *Look back at your proposal and see how your project changed. Does your introduction need updating? Did conversations in class change how you want to explain your topic?*  **250+ words**
+* Lit Review - An updated literature review that incorporates all the relevant sources for your project. If you changed your topic or direction from your initial proposal or annotated bibliography, this is the time to update the lit review. You want to address how these sources inform your project's questions, methods, and goals. You should include **5+ sources**.
+* Data - This section should include uploaded or accessible copies of your data (be it spreadsheet or text corpus). You should also include a description of the data that addresses the scope, sources, and any clean-up or manipulation undertaken. Your dataset should include 50-100 entries. This will look different for everyone, so if this number doesn't work for your project, then you should chat with us and get approval. 
+* Tools/methods - Include one paragraph that names, describes, and links to (if applicable) any specific tools or methods employed in your project. 
+* Research questions - Include at least **three** research questions informed by literature, past results, and close reading of data. It is okay to land on one main questions with some secondary questions or questions that didn't quite work out. However, your questions should be appropriately scoped to the data you actually have. It is fine to have small questions!! 
+* Ethics - At least one paragraph on the ethical considerations and decisions made about your data collection and project. Include direct reference to the terms and conditions of the platform(s) you used (your project can violate those t&c, but talk about!). 
+* Data visualizations - Include at least **five** data visualizations. Each visualization should have a title, be well-labeled, and include a caption that describes the data source, the program used to create the viz (including any AI use), and 1-2 sentences on how the visualization attempts to answer the research questions (it could fail!). What does this visualization tell you? 
+* Conclusion - 300-500 words on the takeaways, lessons learned, and future directions of this project. Remember, this is just a *research prospectus*. Imagine that you will be taking up this project for a full year in a lab of internet researchers. What did you learn about your topic in this initial exploration of your topic? What decisions and changes did you make along the way and why? If you had more time, resources, skills, where would you take this project? What were the main barriers you faced and how would overcome them? What further questions did your project raise that you would want to investigate? 
 
-Your project will be presented on a website. It can be hand-coded or created using WordPress, but it should live on your domain. 
+### Presentation
+
+Your project should be published on your WordPress website (unless you feel like handcoding!). You can arrange it as you like with each section a different page or most sections on the same page, however, the home page and the menu should be customized to look like an actual project website, not just a random blog. The theme, style, and graphics should reflect the nature of your topic. 
+
+**Due December 4th at 11:59pm** Turn in link on Canvas. 
 
 ## Reflection
+
+No project is complete without time taken to reflect on its successes and lessons learned. Talk about your feelings! What have you learned about digital culture and information? What have you learned about yourself and the way you learn new things?
+
+**Specs:**
+
+* Due Friday, December 11th, by 12pm (noon).
+* Submit as a document in Canvas.
+* 500-1000 words.
+* Address the following. Your answers should be about the course as a whole, not just your project topic.
+    * What have you learned? Which of these things is most important to you? What did you learn about the material that you didn't expect? What did you learn about yourself?
+    * What has been challenging? Why?
+    * Think back to the start of class. How has your relationship with technology changed? What about your conception of digital culture and information? Have you met your own goals for this course?
+    * Revisit the objectives for this course. Did we address those objectives? How so?
+    * How can you apply the things you learned in this course to future courses or non-academic endeavors?
+
 
