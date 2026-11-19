@@ -156,7 +156,7 @@ The prospectus should include the following sections:
 * Data visualizations - Include at least **five** data visualizations. Each visualization should have a title, be well-labeled, and include a caption that describes the data source, the program used to create the viz (including any AI use), and **1-2 sentences** on how the visualization attempts to answer the research questions (it could fail!). What does this visualization tell you? 
 * Conclusion - **300-500 words** on the takeaways, lessons learned, and future directions of this project. Remember, this is just a *research prospectus*. Imagine that you will be taking up this project for a full year in a lab of internet researchers. What did you learn about your topic in this initial exploration of your topic? What decisions and changes did you make along the way and why? If you had more time, resources, skills, where would you take this project? What were the main barriers you faced and how would overcome them? What further questions did your project raise that you would want to investigate? 
 
-### Presentation
+### Website
 
 Your project should be published on your WordPress website (unless you feel like handcoding!). You can arrange it as you like with each section a different page or most sections on the same page, however, the home page and the menu should be customized to look like an actual project website, not just a random blog. The theme, style, and graphics should reflect the nature of your topic. 
 
