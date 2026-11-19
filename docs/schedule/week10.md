@@ -51,7 +51,7 @@ We have data, now how do we make sense of it? We'll cover the basics of text ana
 
 ## Week 10 Homework - research log
 
-Time to start creating your project and seeing happens! 
+Time to start creating your project and seeing what happens! 
 
 Exploratory data analysis is the process of working with your data to understand what it's all about. Since data gathering and cleanup can be very time-consuming, the goal of this process is to make sure you're spending your time wisely. It can also be helpful to test your hypothesese as well as the fields you're using or the data you've gathered. Sometimes a data visualization will reveal your 2019 dates all turned out as 1919 or that you inconsistently applied some categories and now your pie chart is off. 
 
